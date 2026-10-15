@@ -42,8 +42,6 @@
 ---
 
 
-### 🐍 A cobra que come as minhas contribuições
-
 <!-- Precisa do ficheiro .github/workflows/snake.yml no repositório para funcionar -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FAbreu6/FAbreu6/output/github-contribution-grid-snake-dark.svg" />
