@@ -11,7 +11,7 @@ Engenheiro Informático · Guimarães, Portugal
 
 ### Sobre mim
 
-- **Engenharia Informática** na **Universidade Politécnica de Viana do Castelo (IPVC)**
+- **Engenharia Informática** na **Universidade Politécnica de Viana do Castelo (UNIPVC)**
 - Com foco em **Data Science, LLMs e tudo relacionado com IA**
 - Aberto a **estágios e colaborações em projetos de IA / Data Science**
 
